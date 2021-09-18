@@ -1,9 +1,3 @@
----
-title: Programming Saying
-layout: default
----
-
-
 # programming-sayings
 Not Programming File, but a feeling of it
 
