@@ -6,3 +6,5 @@
 
 - Saying About ***Programmers*** by ***Martin Fowler***:
   > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+- Inthe words of Tom Glib:
+  > If you don't actively attack the risks, the risks will actively attack you.
