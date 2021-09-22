@@ -9,4 +9,4 @@
 - In the words of ***Tom Glib***:
   > If you don't actively attack the risks, the risks will actively attack you.
 - A funny quote:
-  > Copy-and-Paste was programmed by programmers for programmers actually. xD
+  > Copy and Paste was programmed by programmers for programmers actually. xD
