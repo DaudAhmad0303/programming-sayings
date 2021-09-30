@@ -11,4 +11,7 @@
 - A funny quote:
   > Copy and Paste was programmed by programmers for programmers actually. xD
 - Saying about ***Debuggers***:
-  > Debuggers don't remove bugs. They only show them in slow motion
+  > Debuggers don't remove bugs. They only show them in slow motion.
+
+
+--------------
