@@ -10,3 +10,5 @@
   > If you don't actively attack the risks, the risks will actively attack you.
 - A funny quote:
   > Copy and Paste was programmed by programmers for programmers actually. xD
+- Saying about ***Debuggers***:
+  > Debuggers don't remove bugs. They only show them in slow motion
