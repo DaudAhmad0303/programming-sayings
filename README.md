@@ -12,6 +12,12 @@
   > Copy and Paste was programmed by programmers for programmers actually. xD
 - Saying about ***Debuggers***:
   > Debuggers don't remove bugs. They only show them in slow motion.
+- A Joke about making comment:
+  > A Journalist asked a Programmer:- 
+  > 
+  > What makes code bad? 
+  > 
+  > No Comment
 
 
 --------------
