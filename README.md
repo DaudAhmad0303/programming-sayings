@@ -23,5 +23,6 @@
     tabs after solving an obscure programming bug, not from someone else.
 - A saying about ABCD:
   > abcdefghijklmnopqrstuvwxyz
+  > ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 ---
